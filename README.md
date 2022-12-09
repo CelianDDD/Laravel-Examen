@@ -1,3 +1,5 @@
+--------- A LIRE ----------
+
 Projet laravel qui utilise Voyager (https://voyager.devdojo.com/) comme dashboard d'administration
 
 La base de donnés se trouve dans le dossier, dans la branche LARAVEL-AVEC-DATABASE le fichier se nomme : petiteboheme.sql
